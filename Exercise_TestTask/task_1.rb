@@ -202,7 +202,7 @@ if __FILE__ == $0
     when 0
       break
     else
-       puts "adult"
+      puts "Write, please, number 1..6!"
     end
   end
 end
